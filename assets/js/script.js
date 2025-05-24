@@ -134,6 +134,22 @@ for (let i = 0; i < formInputs.length; i++) {
   });
 }
 
+// handle form submission to WhatsApp
+form.addEventListener("submit", function (e) {
+  e.preventDefault(); // prevent form submission
+
+  const name = form.fullname.value.trim();
+  const email = form.email.value.trim();
+  const message = form.message.value.trim();
+
+  const waMessage = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
+  const phoneNumber = "6281332922149"; // Destination WhatsApp number
+
+  const waURL = `https://wa.me/${phoneNumber}?text=${waMessage}`;
+
+  window.open(waURL, "_blank"); // Open WhatsApp with messages
+});
+
 
 
 // page navigation variables
