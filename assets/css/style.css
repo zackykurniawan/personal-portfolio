@@ -898,26 +898,36 @@ main {
  * skills 
  */
 
-.skills-title {
+.skills {
+  margin-bottom: 30px;
+}
+
+ .skills-title {
   margin-bottom: 20px;
 }
 
-.skills-list {
-  padding: 20px;
+.skills-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
 }
 
-.skills-item:not(:last-child) {
-  margin-bottom: 15px;
+.skills-table th,
+.skills-table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
 }
 
-.skill .title-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  margin-bottom: 8px;
+.skills-table th {
+  background-color: var(--jet);
+  color: white;
 }
 
-.skill .title-wrapper data {
+.skills-table td:nth-child(2) {
+  width: 60%; 
+}
+
+.skills-table data {
   color: var(--light-gray);
   font-size: var(--fs-7);
   font-weight: var(--fw-300);
@@ -928,6 +938,7 @@ main {
   width: 100%;
   height: 8px;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .skill-progress-fill {
