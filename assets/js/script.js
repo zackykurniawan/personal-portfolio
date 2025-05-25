@@ -101,6 +101,9 @@ form.addEventListener("submit", function (e) {
   const waURL = `https://wa.me/${phoneNumber}?text=${waMessage}`;
 
   window.open(waURL, "_blank"); // Open WhatsApp with messages
+
+  form.reset();
+  formBtn.setAttribute("disabled", "");
 });
 
 // page navigation variables
