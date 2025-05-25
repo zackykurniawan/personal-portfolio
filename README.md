@@ -28,13 +28,13 @@ Zacky Kurniawan's portfolio highlighting informatics education and practical exp
   ![About Demo - Mobile](./demo/mobile-about.jpeg)
 
 - **Resume**
-  ![Resume Demo - Mobile](./demo/desktop-resume.jpeg)
+  ![Resume Demo - Mobile](./demo/mobile-resume.jpeg)
 
 - **Portfolio**
-  ![Portfolio Demo - Mobile](./demo/desktop-portfolio.jpeg)
+  ![Portfolio Demo - Mobile](./demo/mobile-portfolio.jpeg)
 
 - **Contact**
-  ![Contact Demo - Mobile](./demo/desktop-contact.jpeg)
+  ![Contact Demo - Mobile](./demo/mobile-contact.jpeg)
 
 ---
 
