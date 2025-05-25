@@ -25,7 +25,7 @@ Zacky Kurniawan's portfolio highlighting informatics education and practical exp
 ### 📱 Mobile View
 
 - **About**
-  ![About Demo - Mobile](./demo/desktop-mobile-about.jpeg)
+  ![About Demo - Mobile](./demo/mobile-about.jpeg)
 
 - **Resume**
   ![Resume Demo - Mobile](./demo/desktop-resume.jpeg)
