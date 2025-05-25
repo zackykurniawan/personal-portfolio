@@ -780,7 +780,7 @@ main {
  */
 
 .tech-stack {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 
 .tech-stack-list {
@@ -902,7 +902,7 @@ main {
   margin-bottom: 30px;
 }
 
- .skills-title {
+skills-title {
   margin-bottom: 20px;
 }
 
@@ -945,6 +945,14 @@ main {
   background: var(--text-gradient-cyan);
   height: 100%;
   border-radius: inherit;
+}
+
+/**
+ * languages  
+ */
+
+.languages {
+  margin-bottom: 15px;
 }
 
 /*-----------------------------------*\
