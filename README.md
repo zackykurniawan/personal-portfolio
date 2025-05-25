@@ -7,20 +7,37 @@ Zacky Kurniawan's portfolio highlighting informatics education and practical exp
 ## Demo
 
 ### 💻 Desktop View
-![Zacky Kurniawan Desktop Demo](./demo/desktop-about.jpeg "About Demo")
-![Zacky Kurniawan Desktop Demo](./demo/desktop-resume.jpeg "Resume Demo")
-![Zacky Kurniawan Desktop Demo](./demo/desktop-portfolio.jpeg "Portfolio Demo")
-![Zacky Kurniawan Desktop Demo](./demo/desktop-contact.jpeg "Contact Demo")
 
+- **About**
+  ![About Demo - Desktop](./demo/desktop-about.jpeg)
+
+- **Resume**
+  ![Resume Demo - Desktop](./demo/resume.jpeg)
+
+- **Portfolio**
+  ![Portfolio Demo - Desktop](./demo/portfolio.jpeg)
+
+- **Contact**
+  ![Contact Demo - Desktop](./demo/contact.jpeg)
+
+---
 
 ### 📱 Mobile View
-![Zacky Kurniawan Desktop Demo](./demo/mobile-about.jpeg "About Demo")
-![Zacky Kurniawan Desktop Demo](./demo/mobile-resume.jpeg "Resume Demo")
-![Zacky Kurniawan Desktop Demo](./demo/mobile-portfolio.jpeg "Portfolio Demo")
-![Zacky Kurniawan Desktop Demo](./demo/mobile-contact.jpeg "Contact Demo")
+
+- **About**
+  ![About Demo - Mobile](./demo/mobile-about.jpeg)
+
+- **Resume**
+  ![Resume Demo - Mobile](./demo/resume.jpeg)
+
+- **Portfolio**
+  ![Portfolio Demo - Mobile](./demo/portfolio.jpeg)
+
+- **Contact**
+  ![Contact Demo - Mobile](./demo/contact.jpeg)
 
 ---
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
